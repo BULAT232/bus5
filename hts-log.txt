@@ -1,0 +1,15 @@
+HTTrack3.44-1+htsswf+htsjava launched on Mon, 22 Aug 2022 15:51:40 at http://svetlana-ekb.ru/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "ru, en, *" http://svetlana-ekb.ru/ -O1 "C:\Мои Web Сайты\РА Светлана" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:51:41	Info: 	Note: due to svetlana-ekb.ru remote robots.txt rules, links begining with these path will be forbidden: /sections/404, /simpla/, /order/, /user/, /captcha/, /Smarty/, /api/, /compiled/, /cart/, /resize/, /password.php (see in the options to disable this)
+15:52:25	Error: 	"Not Found" (404) at link svetlana-ekb.ru/dislokatsiya (from svetlana-ekb.ru/)
+15:52:27	Warning: 	File not parsed, looks like binary: svetlana-ekb.ru/design/multipurpose/js/slider-pro/images/openhand.cur
+15:52:27	Warning: 	File not parsed, looks like binary: svetlana-ekb.ru/design/multipurpose/js/slider-pro/images/closedhand.cur
+
+HTTrack Website Copier/3.44-1 mirror complete in 47 seconds : 67 links scanned, 65 files written (1857580 bytes overall) [1090421 bytes received at 23200 bytes/sec], 1087407 bytes transfered using HTTP compression in 47 files, ratio 26%, 2.6 requests per connection
+(1 errors, 2 warnings, 1 messages)
